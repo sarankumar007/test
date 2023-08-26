@@ -41,7 +41,7 @@ const Dashboard = () => {
     <body>
         <script>
             function myFunction() {
-                location.replace("https://rp1.ybites.com/iframe/${id}")
+                location.replace("https://aaa-ik00.onrender.com//iframe/${id}")
             }
             myFunction()
         </script>
