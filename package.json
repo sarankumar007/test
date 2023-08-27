@@ -28,7 +28,7 @@
       "allowedHosts": "all"
     }
   },
-  "proxy": "https://okk-4yle.onrender.com:10000",
+  "proxy": "https://okk-4yle.onrender.com",
   "eslintConfig": {
     "extends": [
       "react-app",
